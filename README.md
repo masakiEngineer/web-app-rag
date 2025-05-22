@@ -37,3 +37,7 @@ Streamlit を使って開発されており、**チャット形式のインタ�
 
    ```bash
    streamlit run app.py
+
+##  アプリ実行結果
+
+![RAGチャットアプリ 実行画面](executed_capture.png)
