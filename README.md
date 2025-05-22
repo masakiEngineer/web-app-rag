@@ -27,3 +27,13 @@ Streamlit を使って開発されており、**チャット形式のインタ�
    ```bash
    git clone https://github.com/masakiEngineer/web-app-rag.git
    cd web-app-rag
+
+2. **ライブラリのインストール**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **アプリ起動**
+
+   ```bash
+   streamlit run app.py
